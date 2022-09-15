@@ -18,6 +18,7 @@ This newsletter was sent in September 2022.
 * [Vipps on-site messaging](#vipps-on-site-messaging)
 * [Partner API: Pre-fill applications](#partner-api-pre-fill-applications)
 * [Settlement API](#settlement-api)
+* # New API (v3) on Recurring payments coming this fall
 * [Reminders](#reminders)
   * [Please check your API calls for errors](#please-check-your-api-calls-for-errors)
   * [Use the API Dashboard to find problems ](#use-the-api-dashboard-to-find-problems)
@@ -70,6 +71,9 @@ We are in the early planning phase of developing an API for
 [settlements](https://github.com/vippsas/vipps-developers/tree/master/settlements).
 If you are interested in this and want to be kept up to date when we have
 something to share, please send an email to integraton@vipps.no.
+
+# New API (v3) on Recurring payments coming this fall
+Estimated in October, Recurring payments will launch a new API. This will include new and much improved Campaign functionality, the opportunity to Reserve and Capture (+Partial Capture) a recurring charge and more. We will share more info in next newsletter.
 
 # Reminders
 
